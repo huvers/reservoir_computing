@@ -5,10 +5,10 @@ Sample SP500 as well as foreign exchange data has been scraped and cleaned for u
 
 ![alt tag](https://github.com/huvers/reservoir_computing/blob/master/pics/Reservoir.jpg)
 
-Some timeframes appear to be very predictable, while others appear to be complete noise. 
+Some timeframes appear to be very predictable, while others appear to be noise. 
 
 ![alt tag](https://github.com/huvers/reservoir_computing/blob/master/pics/Accurate.jpg)
 
-A  PNL backtester has also been implemented to test differing trade signals.
+A  PNL backtester has also been implemented to test different trade signals.
 
 ![alt tag](https://github.com/huvers/reservoir_computing/blob/master/pics/pnl.jpg)
